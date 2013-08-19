@@ -64,19 +64,19 @@ Usage
 
 To call the library select which one you intend to use and use the correct line::
 
-    >> from matrixKeypad_MCP230xx import keypad
+    from matrixKeypad_MCP230xx import keypad
 
 or::
 
-    >> from matrixKeypad_RPi_GPIO import keypad
+    from matrixKeypad_RPi_GPIO import keypad
 
 Then name the library so it is easier to reference later::
 	
-    >> kp = keypad()
+    kp = keypad()
 
 It is possible to just check to see if a digit is currently pressed.::
 
-    >> checkKeypad = kp.getKey()
+    checkKeypad = kp.getKey()
 	
 Or a simple function to call the keypad library and 
 loop through it waiting for a digit press ::
