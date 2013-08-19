@@ -11,14 +11,14 @@ Supports both a 3x4 and 4x4 keypad included
 Version
 =======
 
-:v0.1:
+:v0.1.0:
 	May 2013
 
 	Initial Scripts
 
-:v1.0:
+:v1.0.0:
     
-	August 2013
+	August 19th, 2013
     
 	Initial package build
 
