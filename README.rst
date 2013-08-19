@@ -12,7 +12,6 @@ Version
 =======
 
 :v0.1:
-	
 	May 2013
 
 	Initial Scripts
@@ -26,7 +25,9 @@ Version
 Author
 ======
 
-:Author:	Chris Crumpacker
+:Author:	
+
+	Chris Crumpacker
 :Email:		chris@chriscrumpacker.com
 :Web:		http://www.chriscrumpacker.com
 :Blog:		http://crumpspot.blogspot.com
