@@ -5,7 +5,7 @@ Python Library for Matrix Keypads.
 Written and tested on a Model B Raspberry Pi.
 Supports both a 3x4 and 4x4 keypad included
 
-:Project Page:  http://
+:Project Page:  http://crumpspot.blogspot.com/2013/08/python-matrix-keypad-package.html
 :PyPI page:  http://
 
 Version
@@ -18,16 +18,14 @@ Version
 
 :v1.0:
     
-    August 2013
+	August 2013
     
-    Initial package build
+	Initial package build
 
 Author
 ======
 
-:Author:	
-
-	Chris Crumpacker
+:Author:	Chris Crumpacker
 :Email:		chris@chriscrumpacker.com
 :Web:		http://www.chriscrumpacker.com
 :Blog:		http://crumpspot.blogspot.com
