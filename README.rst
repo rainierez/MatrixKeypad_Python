@@ -5,8 +5,8 @@ Python Library for Matrix Keypads.
 Written and tested on a Model B Raspberry Pi.
 Supports both a 3x4 and 4x4 keypad included
 
-:Project Page:  projectPage_
-:PyPI page:  PyPIpage_
+:Project Page:  Project_Page_
+:PyPI page:  PyPI_Page_
 
 Version
 =======
@@ -96,8 +96,8 @@ Column and Row scanning adapted from Bandono's matrixQPI_ which is wiringPi base
 .. --------------------------------------------------------------------------
 .. Links
 
-.. _projectPage: http://crumpspot.blogspot.com/2013/08/python-matrix-keypad-package.html
-.. _PyPIpage: https://pypi.python.org/pypi
+.. _Project_Page: http://crumpspot.blogspot.com/2013/08/python-matrix-keypad-package.html
+.. _PyPI_Page: https://pypi.python.org/pypi
 .. _Adafruit_I2C.py: https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code/blob/master/Adafruit_I2C/Adafruit_I2C.py
 .. _Adafruit_MCP230xx.py: https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code/blob/master/Adafruit_MCP230xx/Adafruit_MCP230xx.py
 .. _matrixQPI: https://github.com/bandono/matrixQPi?source=cc
