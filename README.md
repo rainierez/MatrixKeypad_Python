@@ -11,10 +11,9 @@ Supports both a 3x4 and 4x4 keypad included
 Version
 =======
 
-:v0.1:     
-    May 2013
-
-    Initial Scripts
+v0.1
+	May 2013
+	Initial Scripts
 
 :v1.0:
     August 2013
