@@ -17,7 +17,7 @@ class keypad():
 
             self.ROW         = [26,24,23,22]
             self.COLUMN      = [21,19,10]
-        
+
         elif columnCount is 4:
             self.KEYPAD = [
                 [1,2,3,"A"],
