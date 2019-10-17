@@ -72,7 +72,7 @@ class keypad():
                 colVal=j
                  
         # if colVal is not 0 thru 2 then no button was pressed and we can exit
-        if colVal <0 or colVal >2:
+        if colVal <0 or colVal > len(self.COLUMN):
             self.exit()
             return
  
