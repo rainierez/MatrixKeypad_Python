@@ -30,7 +30,7 @@ class keypad():
         pin5 = "P9_12"
         pin6 = "P9_26"
         pin7 = "P9_11"
-        pin8 = "p9_24"
+        pin8 = "P9_24"
 
         # CONSTANTS 
         if columnCount is 3:
